@@ -1,6 +1,7 @@
-Hello Secton A
+Hello Secton B
 this is our class room here at marik
-Hello, Aryan - How are you?I welcome you all!
+Hello, Aryan - How are you?
+I welcome you all LT-106!
 First Line 
 Secone Line 
 Third Line
